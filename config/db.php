@@ -1,5 +1,4 @@
 <?php
-// Database connection - update credentials as needed
 $host = "localhost";
 $db_user = "root";
 $db_pass = "";
