@@ -1,0 +1,14 @@
+# XAMPP / local env
+config/db.php.bak
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploaded files (keep folder, ignore contents)
+uploads/*
+!uploads/.gitkeep
+
+# VS Code
+.vscode/
